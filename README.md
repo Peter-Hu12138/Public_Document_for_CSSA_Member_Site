@@ -1,6 +1,6 @@
 # Public_Document_for_UTCSSA_Member_Site
 
-以下为多大中国学生学者协会的成员管理网站的公开文档。该网站由[我](https://github.com/Peter-Hu12138/)开发。特别致谢：[郑栋耀](https://github.com/QwQ1231043)帮我完成了两个app的蓝图，[多多](https://github.com/sduoduo233)在网站开发中给了我许多建议。
+以下为多大中国学生学者协会的成员管理网站的公开文档。该网站由[我](https://github.com/Peter-Hu12138/)开发。特别致谢：[郑栋耀](https://github.com/QwQ1231043)完成了两个app的蓝图，[多多](https://github.com/sduoduo233)在网站开发中给了我许多在网络和数据安全上面的建议。
 
 ### 部署方法 （待完成，具体部署方法为nginx + gunicorn）
 1. `python manage.py migrate`
