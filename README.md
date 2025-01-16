@@ -1,8 +1,6 @@
 # Public_Document_for_UTCSSA_Member_Site
 
-以下为多大中国学生学者协会的成员管理网站的公开文档。由胡景天[asd](Peter-Hu12138
-)
-# CSSA
+以下为多大中国学生学者协会的成员管理网站的公开文档。该网站由[我]([Peter-Hu12138](https://github.com/Peter-Hu12138/)开发。特别致谢：(郑栋耀)[https://github.com/QwQ1231043]帮我完成了两个app的蓝图，(多多)[https://github.com/sduoduo233]在网站开发中给了我许多建议。
 
 ### 部署方法 （待完成，具体部署方法为nginx + gunicorn）
 1. `python manage.py migrate`
@@ -183,11 +181,4 @@
    - URL访问权限控制
    - 跨部门数据访问限制
    - 现在存在一些表单验证漏洞，未来将进行修正
-
-### Next steps(??):
-1. display people without department in departments view
-2. give admin user an entry to edit people's info at the main pages
-3. decide if people section should stay
-4. 邮件提醒部长副部长审核
-5. 修复安全问题
 
